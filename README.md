@@ -5,7 +5,7 @@
 
 <div align=center>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=Cytical&show_icons=true&theme=radical" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Cytical&theme=radical&hide_border=true" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Cytical&theme=radical" />
 </div>
 <h3 align="center" style="color:#FB418C">Languages/Tools I've worked with:</h3>
 
